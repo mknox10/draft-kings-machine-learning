@@ -1,0 +1,545 @@
+Name,Team,Pos,Week,Opponent,Opponent Rank,Opponent Position Rank,Salary,Projection
+ Buffalo Bills,BUF,DST,18,NYJ,--,--,4500,12.6
+ New England Patriots,NE,DST,17,JAX,--,--,5000,12
+ Arizona Cardinals,ARI,DST,7,HOU,--,--,5000,10.5
+ Indianapolis Colts,IND,DST,6,HOU,--,--,4700,10.2
+ Buffalo Bills,BUF,DST,10,NYJ,--,--,5000,9.9
+ Carolina Panthers,CAR,DST,3,HOU,--,--,4500,9.9
+ Buffalo Bills,BUF,DST,15,CAR,--,--,4900,9.7
+ Arizona Cardinals,ARI,DST,10,CAR,--,--,4800,9.7
+ Buffalo Bills,BUF,DST,8,MIA,--,--,4700,9.7
+ Tampa Bay Buccaneers,TB,DST,16,CAR,--,--,4700,9.6
+ Los Angeles Rams,LAR,DST,8,HOU,--,--,5000,9.6
+ Indianapolis Colts,IND,DST,9,NYJ,--,--,4600,9.6
+ Buffalo Bills,BUF,DST,9,JAX,--,--,5200,9.6
+ San Francisco 49ers,SF,DST,1,DET,--,--,5000,9.5
+ Tampa Bay Buccaneers,TB,DST,7,CHI,--,--,4400,9.5
+ Buffalo Bills,BUF,DST,4,HOU,--,--,5000,9.5
+ Denver Broncos,DEN,DST,3,NYJ,--,--,5000,9.5
+ Tampa Bay Buccaneers,TB,DST,18,CAR,--,--,4200,9.5
+ Washington Commanders,WAS,DST,2,NYG,--,--,4600,9.5
+ Los Angeles Rams,LAR,DST,7,DET,--,--,4900,9.4
+ Buffalo Bills,BUF,DST,3,WAS,--,--,4100,9.4
+ Pittsburgh Steelers,PIT,DST,3,CIN,--,--,4800,9.4
+ Carolina Panthers,CAR,DST,1,NYJ,--,--,4600,9.3
+ Arizona Cardinals,ARI,DST,15,DET,--,--,4800,9.3
+ Los Angeles Rams,LAR,DST,6,NYG,--,--,5000,9.3
+ Tampa Bay Buccaneers,TB,DST,17,NYJ,--,--,4900,9.3
+ Cincinnati Bengals,CIN,DST,16,BAL,--,--,3500,9.3
+ Arizona Cardinals,ARI,DST,3,JAX,--,--,4600,9.3
+ Pittsburgh Steelers,PIT,DST,2,LV,--,--,4900,9.3
+ Green Bay Packers,GB,DST,2,DET,--,--,4200,9.3
+ Indianapolis Colts,IND,DST,13,HOU,--,--,4500,9.2
+ Miami Dolphins,MIA,DST,13,NYG,--,--,4000,9.2
+ Tennessee Titans,TEN,DST,11,HOU,--,--,4600,9.2
+ Dallas Cowboys,DAL,DST,15,NYG,--,--,4600,9.2
+ Green Bay Packers,GB,DST,17,MIN,--,--,4400,9.2
+ Dallas Cowboys,DAL,DST,16,WAS,--,--,4900,9.2
+ Pittsburgh Steelers,PIT,DST,10,DET,--,--,4900,9.2
+ Tennessee Titans,TEN,DST,4,NYJ,--,--,4900,9.2
+ Indianapolis Colts,IND,DST,18,JAX,--,--,4800,9.2
+ Tampa Bay Buccaneers,TB,DST,5,MIA,--,--,4800,9.1
+ Philadelphia Eagles,PHI,DST,13,NYJ,--,--,4800,9.1
+ Denver Broncos,DEN,DST,1,NYG,--,--,4100,9.1
+ Los Angeles Rams,LAR,DST,1,CHI,--,--,4900,9.1
+ Philadelphia Eagles,PHI,DST,15,WAS,--,--,4800,9.1
+ San Francisco 49ers,SF,DST,17,HOU,--,--,4600,9.1
+ Indianapolis Colts,IND,DST,10,JAX,--,--,4800,9.1
+ Tampa Bay Buccaneers,TB,DST,10,WAS,--,--,4400,9.1
+ Cincinnati Bengals,CIN,DST,4,JAX,--,--,4600,9.1
+ Pittsburgh Steelers,PIT,DST,9,CHI,--,--,4500,9.1
+ Green Bay Packers,GB,DST,14,CHI,--,--,4500,9.1
+ Tampa Bay Buccaneers,TB,DST,13,ATL,--,--,4300,9
+ Arizona Cardinals,ARI,DST,13,CHI,--,--,5000,9
+ Los Angeles Rams,LAR,DST,13,JAX,--,--,4900,9
+ Buffalo Bills,BUF,DST,17,ATL,--,--,4500,9
+ Cincinnati Bengals,CIN,DST,8,NYJ,--,--,4900,9
+ Chicago Bears,CHI,DST,2,CIN,--,--,4100,9
+ Tampa Bay Buccaneers,TB,DST,2,ATL,--,--,4500,9
+ Tampa Bay Buccaneers,TB,DST,11,NYG,--,--,4600,8.9
+ Tampa Bay Buccaneers,TB,DST,1,DAL,--,--,4000,8.9
+ Miami Dolphins,MIA,DST,15,NYJ,--,--,5000,8.9
+ Tampa Bay Buccaneers,TB,DST,15,NO,--,--,4300,8.9
+ New England Patriots,NE,DST,7,NYJ,--,--,4800,8.9
+ Carolina Panthers,CAR,DST,7,NYG,--,--,4500,8.9
+ San Francisco 49ers,SF,DST,8,CHI,--,--,4600,8.9
+ Washington Commanders,WAS,DST,18,NYG,--,--,5000,8.9
+ New England Patriots,NE,DST,2,NYJ,--,--,5000,8.9
+ New Orleans Saints,NO,DST,14,NYJ,--,--,5000,8.9
+ Cleveland Browns,CLE,DST,11,DET,--,--,5000,8.8
+ Minnesota Vikings,MIN,DST,15,CHI,--,--,4800,8.8
+ Baltimore Ravens,BAL,DST,10,MIA,--,--,4600,8.8
+ New England Patriots,NE,DST,3,NO,--,--,4700,8.8
+ New England Patriots,NE,DST,18,MIA,--,--,4600,8.8
+ New York Giants,NYG,DST,2,WAS,--,--,3700,8.8
+ New Orleans Saints,NO,DST,2,CAR,--,--,4300,8.8
+ Cleveland Browns,CLE,DST,2,HOU,--,--,4200,8.8
+ Denver Broncos,DEN,DST,2,JAX,--,--,4600,8.8
+ New England Patriots,NE,DST,5,HOU,--,--,5000,8.7
+ San Francisco 49ers,SF,DST,15,ATL,--,--,4300,8.7
+ Buffalo Bills,BUF,DST,12,NO,--,--,4500,8.7
+ Cleveland Browns,CLE,DST,3,CHI,--,--,4200,8.7
+ Dallas Cowboys,DAL,DST,9,DEN,--,--,3900,8.7
+ New Orleans Saints,NO,DST,9,ATL,--,--,4700,8.7
+ New Orleans Saints,NO,DST,17,CAR,--,--,4700,8.6
+ New Orleans Saints,NO,DST,7,SEA,--,--,4700,8.6
+ New Orleans Saints,NO,DST,4,NYG,--,--,4800,8.6
+ Tennessee Titans,TEN,DST,18,HOU,--,--,4700,8.6
+ Baltimore Ravens,BAL,DST,11,CHI,--,--,4500,8.5
+ San Francisco 49ers,SF,DST,11,JAX,--,--,4900,8.5
+ Miami Dolphins,MIA,DST,11,NYJ,--,--,4800,8.5
+ Atlanta Falcons,ATL,DST,1,PHI,--,--,3900,8.5
+ Baltimore Ravens,BAL,DST,1,LV,--,--,3500,8.5
+ Chicago Bears,CHI,DST,12,DET,--,--,5000,8.5
+ Indianapolis Colts,IND,DST,17,LV,--,--,3900,8.5
+ Philadelphia Eagles,PHI,DST,16,NYG,--,--,5000,8.5
+ Baltimore Ravens,BAL,DST,7,CIN,--,--,4300,8.5
+ Baltimore Ravens,BAL,DST,3,DET,--,--,4400,8.5
+ Kansas City Chiefs,KC,DST,18,DEN,--,--,5000,8.5
+ Seattle Seahawks,SEA,DST,14,HOU,--,--,4500,8.5
+ Tennessee Titans,TEN,DST,14,JAX,--,--,4700,8.5
+ New England Patriots,NE,DST,11,ATL,--,--,4800,8.4
+ New England Patriots,NE,DST,1,MIA,--,--,4400,8.4
+ Atlanta Falcons,ATL,DST,16,DET,--,--,3800,8.4
+ New England Patriots,NE,DST,16,BUF,--,--,4100,8.4
+ Miami Dolphins,MIA,DST,16,NO,--,--,4000,8.4
+ Tennessee Titans,TEN,DST,10,NO,--,--,4100,8.4
+ Green Bay Packers,GB,DST,7,WAS,--,--,4100,8.4
+ Dallas Cowboys,DAL,DST,18,PHI,--,--,4400,8.4
+ Carolina Panthers,CAR,DST,14,ATL,--,--,4800,8.4
+ Los Angeles Chargers,LAC,DST,14,NYG,--,--,4300,8.4
+ Green Bay Packers,GB,DST,15,BAL,--,--,4500,8.3
+ Cleveland Browns,CLE,DST,15,LV,--,--,4100,8.3
+ New England Patriots,NE,DST,12,TEN,--,--,5000,8.3
+ Pittsburgh Steelers,PIT,DST,6,SEA,--,--,4800,8.3
+ Las Vegas Raiders,LV,DST,5,CHI,--,--,4500,8.2
+ Carolina Panthers,CAR,DST,11,WAS,--,--,4100,8.2
+ Indianapolis Colts,IND,DST,1,SEA,--,--,4100,8.2
+ Philadelphia Eagles,PHI,DST,17,WAS,--,--,4300,8.2
+ Los Angeles Chargers,LAC,DST,16,HOU,--,--,4800,8.2
+ Cleveland Browns,CLE,DST,14,BAL,--,--,4100,8.2
+ Denver Broncos,DEN,DST,14,DET,--,--,4400,8.2
+ Carolina Panthers,CAR,DST,5,PHI,--,--,3800,8.1
+ New Orleans Saints,NO,DST,5,WAS,--,--,4600,8.1
+ Arizona Cardinals,ARI,DST,5,SF,--,--,4700,8.1
+ Minnesota Vikings,MIN,DST,13,DET,--,--,4600,8.1
+ Buffalo Bills,BUF,DST,11,IND,--,--,4500,8.1
+ Minnesota Vikings,MIN,DST,1,CIN,--,--,3800,8.1
+ Washington Commanders,WAS,DST,1,LAC,--,--,4200,8.1
+ Philadelphia Eagles,PHI,DST,12,NYG,--,--,4300,8.1
+ Green Bay Packers,GB,DST,6,CHI,--,--,4200,8.1
+ Chicago Bears,CHI,DST,17,NYG,--,--,4800,8.1
+ Green Bay Packers,GB,DST,16,CLE,--,--,4700,8.1
+ New York Jets,NYJ,DST,16,JAX,--,--,4100,8.1
+ Los Angeles Rams,LAR,DST,10,SF,--,--,4800,8.1
+ Seattle Seahawks,SEA,DST,8,JAX,--,--,4300,8.1
+ New Orleans Saints,NO,DST,18,ATL,--,--,4900,8.1
+ Cleveland Browns,CLE,DST,18,CIN,--,--,4500,8.1
+ Minnesota Vikings,MIN,DST,18,CHI,--,--,3700,8.1
+ New England Patriots,NE,DST,9,CAR,--,--,4800,8.1
+ Philadelphia Eagles,PHI,DST,2,SF,--,--,3900,8.1
+ Atlanta Falcons,ATL,DST,5,NYJ,--,--,4200,8
+ Minnesota Vikings,MIN,DST,5,DET,--,--,3900,8
+ Pittsburgh Steelers,PIT,DST,5,DEN,--,--,4000,8
+ Baltimore Ravens,BAL,DST,5,IND,--,--,4500,8
+ Carolina Panthers,CAR,DST,12,MIA,--,--,4700,8
+ Kansas City Chiefs,KC,DST,16,PIT,--,--,4300,8
+ Chicago Bears,CHI,DST,4,DET,--,--,4500,8
+ Dallas Cowboys,DAL,DST,3,PHI,--,--,3900,8
+ Miami Dolphins,MIA,DST,9,HOU,--,--,4300,8
+ Los Angeles Rams,LAR,DST,2,IND,--,--,4700,8
+ San Francisco 49ers,SF,DST,2,PHI,--,--,4800,8
+ Denver Broncos,DEN,DST,5,PIT,--,--,4400,7.9
+ Buffalo Bills,BUF,DST,13,NE,--,--,4500,7.9
+ Denver Broncos,DEN,DST,6,LV,--,--,4400,7.9
+ Cleveland Browns,CLE,DST,7,DEN,--,--,3500,7.9
+ Miami Dolphins,MIA,DST,4,IND,--,--,4000,7.9
+ Denver Broncos,DEN,DST,8,WAS,--,--,4100,7.9
+ Kansas City Chiefs,KC,DST,3,LAC,--,--,3700,7.9
+ Los Angeles Rams,LAR,DST,18,SF,--,--,4400,7.9
+ San Francisco 49ers,SF,DST,9,ARI,--,--,3500,7.9
+ Los Angeles Rams,LAR,DST,15,SEA,--,--,4500,7.8
+ Houston Texans,HOU,DST,12,NYJ,--,--,4900,7.8
+ Buffalo Bills,BUF,DST,6,TEN,--,--,4500,7.8
+ Seattle Seahawks,SEA,DST,17,DET,--,--,4400,7.8
+ Cleveland Browns,CLE,DST,17,PIT,--,--,4100,7.8
+ Seattle Seahawks,SEA,DST,16,CHI,--,--,4500,7.8
+ New Orleans Saints,NO,DST,16,MIA,--,--,4500,7.8
+ Green Bay Packers,GB,DST,4,PIT,--,--,4200,7.8
+ Green Bay Packers,GB,DST,18,DET,--,--,4300,7.8
+ Arizona Cardinals,ARI,DST,18,SEA,--,--,4100,7.8
+ Arizona Cardinals,ARI,DST,2,MIN,--,--,4400,7.8
+ Kansas City Chiefs,KC,DST,13,DEN,--,--,3300,7.7
+ Los Angeles Chargers,LAC,DST,1,WAS,--,--,4300,7.7
+ Green Bay Packers,GB,DST,1,NO,--,--,4500,7.7
+ Tampa Bay Buccaneers,TB,DST,6,PHI,--,--,4100,7.7
+ Miami Dolphins,MIA,DST,6,JAX,--,--,4200,7.7
+ Dallas Cowboys,DAL,DST,6,NE,--,--,4100,7.7
+ Los Angeles Chargers,LAC,DST,17,DEN,--,--,4000,7.7
+ Tampa Bay Buccaneers,TB,DST,8,NO,--,--,4200,7.7
+ Miami Dolphins,MIA,DST,3,LV,--,--,3800,7.7
+ Indianapolis Colts,IND,DST,2,LAR,--,--,3800,7.7
+ San Francisco 49ers,SF,DST,13,SEA,--,--,4200,7.6
+ Houston Texans,HOU,DST,1,JAX,--,--,3400,7.6
+ Kansas City Chiefs,KC,DST,1,CLE,--,--,3600,7.6
+ Tennessee Titans,TEN,DST,17,MIA,--,--,4000,7.6
+ Cleveland Browns,CLE,DST,8,PIT,--,--,4000,7.6
+ Arizona Cardinals,ARI,DST,9,SF,--,--,4400,7.6
+ Carolina Panthers,CAR,DST,2,NO,--,--,3800,7.6
+ San Francisco 49ers,SF,DST,14,CIN,--,--,3900,7.6
+ Miami Dolphins,MIA,DST,1,NE,--,--,4000,7.5
+ Jacksonville Jaguars,JAX,DST,15,HOU,--,--,3600,7.5
+ Tampa Bay Buccaneers,TB,DST,4,NE,--,--,4400,7.5
+ Chicago Bears,CHI,DST,8,SF,--,--,3700,7.5
+ Buffalo Bills,BUF,DST,2,MIA,--,--,3700,7.5
+ Dallas Cowboys,DAL,DST,14,WAS,--,--,4200,7.5
+ Baltimore Ravens,BAL,DST,13,PIT,--,--,4800,7.4
+ Chicago Bears,CHI,DST,1,LAR,--,--,3900,7.4
+ Dallas Cowboys,DAL,DST,12,LV,--,--,4000,7.4
+ New Orleans Saints,NO,DST,3,NE,--,--,4300,7.4
+ Atlanta Falcons,ATL,DST,3,NYG,--,--,3500,7.4
+ Baltimore Ravens,BAL,DST,18,PIT,--,--,4000,7.4
+ Los Angeles Rams,LAR,DST,9,TEN,--,--,4100,7.4
+ Kansas City Chiefs,KC,DST,14,LV,--,--,3700,7.4
+ Tampa Bay Buccaneers,TB,DST,14,BUF,--,--,3800,7.4
+ Dallas Cowboys,DAL,DST,13,NO,--,--,4000,7.3
+ Los Angeles Chargers,LAC,DST,11,PIT,--,--,4200,7.3
+ Pittsburgh Steelers,PIT,DST,1,BUF,--,--,4000,7.3
+ Jacksonville Jaguars,JAX,DST,1,HOU,--,--,3900,7.3
+ New York Giants,NYG,DST,1,DEN,--,--,3700,7.3
+ Houston Texans,HOU,DST,15,JAX,--,--,4000,7.3
+ Dallas Cowboys,DAL,DST,10,ATL,--,--,4200,7.3
+ San Francisco 49ers,SF,DST,7,IND,--,--,4000,7.3
+ Indianapolis Colts,IND,DST,8,TEN,--,--,3800,7.3
+ New York Giants,NYG,DST,3,ATL,--,--,3900,7.3
+ Las Vegas Raiders,LV,DST,3,MIA,--,--,4000,7.3
+ Los Angeles Rams,LAR,DST,3,TB,--,--,4000,7.3
+ Pittsburgh Steelers,PIT,DST,18,BAL,--,--,3500,7.3
+ Kansas City Chiefs,KC,DST,9,GB,--,--,3300,7.3
+ Philadelphia Eagles,PHI,DST,1,ATL,--,--,3800,7.2
+ Buffalo Bills,BUF,DST,1,PIT,--,--,3600,7.2
+ Indianapolis Colts,IND,DST,15,NE,--,--,4100,7.2
+ Kansas City Chiefs,KC,DST,17,CIN,--,--,4100,7.2
+ Tampa Bay Buccaneers,TB,DST,3,LAR,--,--,3900,7.2
+ Seattle Seahawks,SEA,DST,3,MIN,--,--,3600,7.2
+ Kansas City Chiefs,KC,DST,2,BAL,--,--,3800,7.2
+ Arizona Cardinals,ARI,DST,11,SEA,--,--,4300,7.1
+ New England Patriots,NE,DST,15,IND,--,--,4500,7.1
+ Pittsburgh Steelers,PIT,DST,15,TEN,--,--,3700,7.1
+ San Francisco 49ers,SF,DST,16,TEN,--,--,4100,7.1
+ Atlanta Falcons,ATL,DST,4,WAS,--,--,3600,7.1
+ Los Angeles Rams,LAR,DST,4,ARI,--,--,3800,7.1
+ Arizona Cardinals,ARI,DST,8,GB,--,--,4000,7.1
+ Dallas Cowboys,DAL,DST,5,NYG,--,--,4000,7
+ New England Patriots,NE,DST,13,BUF,--,--,5000,7
+ Jacksonville Jaguars,JAX,DST,12,ATL,--,--,4500,7
+ Miami Dolphins,MIA,DST,12,CAR,--,--,3400,7
+ Minnesota Vikings,MIN,DST,6,CAR,--,--,3700,7
+ Arizona Cardinals,ARI,DST,6,CLE,--,--,4300,7
+ Los Angeles Rams,LAR,DST,17,BAL,--,--,4100,7
+ Jacksonville Jaguars,JAX,DST,16,NYJ,--,--,4000,7
+ Indianapolis Colts,IND,DST,7,SF,--,--,4500,7
+ Indianapolis Colts,IND,DST,4,MIA,--,--,4600,7
+ Green Bay Packers,GB,DST,3,SF,--,--,4000,7
+ Philadelphia Eagles,PHI,DST,3,DAL,--,--,3500,7
+ Miami Dolphins,MIA,DST,2,BUF,--,--,4000,7
+ Minnesota Vikings,MIN,DST,2,ARI,--,--,3300,7
+ Los Angeles Chargers,LAC,DST,2,DAL,--,--,3600,7
+ Washington Commanders,WAS,DST,11,CAR,--,--,3500,6.9
+ Las Vegas Raiders,LV,DST,11,CIN,--,--,4200,6.9
+ Cincinnati Bengals,CIN,DST,6,DET,--,--,4500,6.9
+ Washington Commanders,WAS,DST,4,ATL,--,--,4000,6.9
+ Denver Broncos,DEN,DST,4,BAL,--,--,4200,6.9
+ Carolina Panthers,CAR,DST,8,ATL,--,--,4400,6.9
+ Dallas Cowboys,DAL,DST,8,MIN,--,--,4500,6.9
+ Las Vegas Raiders,LV,DST,9,NYG,--,--,4200,6.9
+ Chicago Bears,CHI,DST,11,BAL,--,--,3500,6.8
+ Tennessee Titans,TEN,DST,1,ARI,--,--,3500,6.8
+ Denver Broncos,DEN,DST,15,CIN,--,--,4000,6.8
+ Pittsburgh Steelers,PIT,DST,12,CIN,--,--,4000,6.8
+ Atlanta Falcons,ATL,DST,12,JAX,--,--,3800,6.8
+ Dallas Cowboys,DAL,DST,17,ARI,--,--,4200,6.8
+ Tennessee Titans,TEN,DST,16,SF,--,--,3700,6.8
+ Buffalo Bills,BUF,DST,16,NE,--,--,4000,6.8
+ Cleveland Browns,CLE,DST,10,NE,--,--,4500,6.8
+ New Orleans Saints,NO,DST,10,TEN,--,--,4700,6.8
+ New York Giants,NYG,DST,7,CAR,--,--,3600,6.8
+ Atlanta Falcons,ATL,DST,8,CAR,--,--,4000,6.8
+ Pittsburgh Steelers,PIT,DST,8,CLE,--,--,4800,6.8
+ Philadelphia Eagles,PHI,DST,8,DET,--,--,4100,6.8
+ Washington Commanders,WAS,DST,3,BUF,--,--,3700,6.8
+ Chicago Bears,CHI,DST,3,CLE,--,--,4100,6.8
+ Tennessee Titans,TEN,DST,3,IND,--,--,4500,6.8
+ Minnesota Vikings,MIN,DST,3,SEA,--,--,3500,6.8
+ New York Jets,NYJ,DST,2,NE,--,--,3400,6.8
+ Los Angeles Rams,LAR,DST,5,SEA,--,--,3500,6.7
+ Green Bay Packers,GB,DST,5,CIN,--,--,4100,6.7
+ Tennessee Titans,TEN,DST,5,JAX,--,--,4200,6.7
+ Las Vegas Raiders,LV,DST,13,WAS,--,--,4100,6.7
+ Detroit Lions,DET,DST,1,SF,--,--,3300,6.7
+ Arizona Cardinals,ARI,DST,1,TEN,--,--,3400,6.7
+ Indianapolis Colts,IND,DST,12,TB,--,--,3500,6.7
+ Miami Dolphins,MIA,DST,7,ATL,--,--,4000,6.7
+ Las Vegas Raiders,LV,DST,7,PHI,--,--,4200,6.7
+ Dallas Cowboys,DAL,DST,4,CAR,--,--,3800,6.7
+ Washington Commanders,WAS,DST,8,DEN,--,--,3400,6.7
+ Minnesota Vikings,MIN,DST,8,DAL,--,--,3300,6.7
+ Indianapolis Colts,IND,DST,3,TEN,--,--,3800,6.7
+ New York Jets,NYJ,DST,1,CAR,--,--,3500,6.6
+ Seattle Seahawks,SEA,DST,1,IND,--,--,4800,6.6
+ Las Vegas Raiders,LV,DST,1,BAL,--,--,3400,6.6
+ Las Vegas Raiders,LV,DST,15,CLE,--,--,4000,6.6
+ Detroit Lions,DET,DST,12,CHI,--,--,3700,6.6
+ Cleveland Browns,CLE,DST,12,BAL,--,--,4000,6.6
+ Cleveland Browns,CLE,DST,6,ARI,--,--,3600,6.6
+ Arizona Cardinals,ARI,DST,17,DAL,--,--,3900,6.6
+ Miami Dolphins,MIA,DST,17,TEN,--,--,3600,6.6
+ Pittsburgh Steelers,PIT,DST,17,CLE,--,--,3500,6.6
+ Las Vegas Raiders,LV,DST,16,DEN,--,--,3900,6.6
+ New England Patriots,NE,DST,10,CLE,--,--,4300,6.6
+ Denver Broncos,DEN,DST,10,PHI,--,--,4000,6.6
+ Carolina Panthers,CAR,DST,4,DAL,--,--,3700,6.6
+ Kansas City Chiefs,KC,DST,4,PHI,--,--,3700,6.6
+ San Francisco 49ers,SF,DST,4,SEA,--,--,3900,6.6
+ Los Angeles Chargers,LAC,DST,8,NE,--,--,3900,6.6
+ New York Jets,NYJ,DST,3,DEN,--,--,3200,6.6
+ Cincinnati Bengals,CIN,DST,9,CLE,--,--,3800,6.6
+ Minnesota Vikings,MIN,DST,14,PIT,--,--,4300,6.6
+ Pittsburgh Steelers,PIT,DST,13,BAL,--,--,4000,6.5
+ New Orleans Saints,NO,DST,11,PHI,--,--,4400,6.5
+ Seattle Seahawks,SEA,DST,11,ARI,--,--,3700,6.5
+ New Orleans Saints,NO,DST,12,BUF,--,--,3800,6.5
+ Los Angeles Chargers,LAC,DST,12,DEN,--,--,3600,6.5
+ Baltimore Ravens,BAL,DST,12,CLE,--,--,4600,6.5
+ Washington Commanders,WAS,DST,12,SEA,--,--,3900,6.5
+ Baltimore Ravens,BAL,DST,6,LAC,--,--,3900,6.5
+ Carolina Panthers,CAR,DST,6,MIN,--,--,4000,6.5
+ Indianapolis Colts,IND,DST,16,ARI,--,--,3900,6.5
+ Carolina Panthers,CAR,DST,10,ARI,--,--,3600,6.5
+ Minnesota Vikings,MIN,DST,10,LAC,--,--,3700,6.5
+ Denver Broncos,DEN,DST,7,CLE,--,--,4500,6.5
+ New York Giants,NYG,DST,4,NO,--,--,3400,6.5
+ Kansas City Chiefs,KC,DST,8,NYG,--,--,3900,6.5
+ Cincinnati Bengals,CIN,DST,18,CLE,--,--,3700,6.5
+ New York Giants,NYG,DST,18,WAS,--,--,3600,6.5
+ Los Angeles Chargers,LAC,DST,9,PHI,--,--,3700,6.5
+ Cincinnati Bengals,CIN,DST,14,SF,--,--,3700,6.5
+ Arizona Cardinals,ARI,DST,14,LAR,--,--,4100,6.5
+ Philadelphia Eagles,PHI,DST,5,CAR,--,--,3500,6.4
+ Washington Commanders,WAS,DST,5,NO,--,--,3800,6.4
+ Cleveland Browns,CLE,DST,5,LAC,--,--,4100,6.4
+ Green Bay Packers,GB,DST,11,MIN,--,--,4000,6.4
+ Cincinnati Bengals,CIN,DST,1,MIN,--,--,3000,6.4
+ Tennessee Titans,TEN,DST,15,PIT,--,--,4100,6.4
+ Cincinnati Bengals,CIN,DST,15,DEN,--,--,3400,6.4
+ Arizona Cardinals,ARI,DST,16,IND,--,--,4000,6.4
+ Baltimore Ravens,BAL,DST,16,CIN,--,--,3900,6.4
+ Los Angeles Rams,LAR,DST,16,MIN,--,--,4200,6.4
+ Green Bay Packers,GB,DST,10,SEA,--,--,3900,6.4
+ Atlanta Falcons,ATL,DST,7,MIA,--,--,3900,6.4
+ Detroit Lions,DET,DST,4,CHI,--,--,4100,6.4
+ Cleveland Browns,CLE,DST,4,MIN,--,--,4400,6.4
+ Baltimore Ravens,BAL,DST,4,DEN,--,--,4300,6.4
+ Los Angeles Chargers,LAC,DST,4,LV,--,--,3800,6.4
+ San Francisco 49ers,SF,DST,3,GB,--,--,4200,6.4
+ Miami Dolphins,MIA,DST,18,NE,--,--,3500,6.4
+ Los Angeles Chargers,LAC,DST,18,LV,--,--,4200,6.4
+ Cleveland Browns,CLE,DST,9,CIN,--,--,4100,6.4
+ Baltimore Ravens,BAL,DST,14,CLE,--,--,4500,6.4
+ Los Angeles Rams,LAR,DST,14,ARI,--,--,3800,6.4
+ Chicago Bears,CHI,DST,5,LV,--,--,4300,6.3
+ San Francisco 49ers,SF,DST,5,ARI,--,--,3700,6.3
+ Los Angeles Chargers,LAC,DST,13,CIN,--,--,3600,6.3
+ Cincinnati Bengals,CIN,DST,13,LAC,--,--,3900,6.3
+ New York Jets,NYJ,DST,11,MIA,--,--,3800,6.3
+ New York Jets,NYJ,DST,12,HOU,--,--,4100,6.3
+ Green Bay Packers,GB,DST,12,LAR,--,--,3700,6.3
+ Minnesota Vikings,MIN,DST,12,SF,--,--,3300,6.3
+ New York Giants,NYG,DST,17,CHI,--,--,4200,6.3
+ Denver Broncos,DEN,DST,17,LAC,--,--,3700,6.3
+ Denver Broncos,DEN,DST,16,LV,--,--,3800,6.3
+ Miami Dolphins,MIA,DST,10,BAL,--,--,3300,6.3
+ Las Vegas Raiders,LV,DST,10,KC,--,--,3300,6.3
+ Seattle Seahawks,SEA,DST,4,SF,--,--,3300,6.3
+ Chicago Bears,CHI,DST,18,MIN,--,--,3900,6.3
+ Carolina Panthers,CAR,DST,9,NE,--,--,4200,6.3
+ Green Bay Packers,GB,DST,9,KC,--,--,3600,6.3
+ Dallas Cowboys,DAL,DST,2,LAC,--,--,3500,6.3
+ Atlanta Falcons,ATL,DST,14,CAR,--,--,3500,6.3
+ Houston Texans,HOU,DST,14,SEA,--,--,3400,6.3
+ Buffalo Bills,BUF,DST,14,TB,--,--,4000,6.3
+ Indianapolis Colts,IND,DST,5,BAL,--,--,3900,6.2
+ New York Giants,NYG,DST,13,MIA,--,--,3800,6.2
+ Washington Commanders,WAS,DST,13,LV,--,--,3400,6.2
+ Pittsburgh Steelers,PIT,DST,11,LAC,--,--,4000,6.2
+ Cincinnati Bengals,CIN,DST,12,PIT,--,--,3300,6.2
+ Tampa Bay Buccaneers,TB,DST,12,IND,--,--,4200,6.2
+ Denver Broncos,DEN,DST,12,LAC,--,--,4100,6.2
+ Los Angeles Rams,LAR,DST,12,GB,--,--,4400,6.2
+ Seattle Seahawks,SEA,DST,12,WAS,--,--,3600,6.2
+ Jacksonville Jaguars,JAX,DST,6,MIA,--,--,3800,6.2
+ Philadelphia Eagles,PHI,DST,10,DEN,--,--,3600,6.2
+ Seattle Seahawks,SEA,DST,7,NO,--,--,3600,6.2
+ Detroit Lions,DET,DST,8,PHI,--,--,3200,6.2
+ Houston Texans,HOU,DST,3,CAR,--,--,3400,6.2
+ Baltimore Ravens,BAL,DST,9,MIN,--,--,4100,6.2
+ Houston Texans,HOU,DST,9,MIA,--,--,4000,6.2
+ New York Giants,NYG,DST,9,LV,--,--,3500,6.2
+ Cincinnati Bengals,CIN,DST,2,CHI,--,--,3600,6.2
+ Pittsburgh Steelers,PIT,DST,14,MIN,--,--,3800,6.2
+ Philadelphia Eagles,PHI,DST,11,NO,--,--,3900,6.1
+ Cincinnati Bengals,CIN,DST,11,LV,--,--,3600,6.1
+ Kansas City Chiefs,KC,DST,15,LAC,--,--,4500,6.1
+ Los Angeles Chargers,LAC,DST,15,KC,--,--,3600,6.1
+ Carolina Panthers,CAR,DST,15,BUF,--,--,3500,6.1
+ Detroit Lions,DET,DST,6,CIN,--,--,3700,6.1
+ Kansas City Chiefs,KC,DST,6,WAS,--,--,3800,6.1
+ Las Vegas Raiders,LV,DST,6,DEN,--,--,4600,6.1
+ Carolina Panthers,CAR,DST,17,NO,--,--,3600,6.1
+ Minnesota Vikings,MIN,DST,16,LAR,--,--,3600,6.1
+ New York Jets,NYJ,DST,7,NE,--,--,3300,6.1
+ Las Vegas Raiders,LV,DST,4,LAC,--,--,4000,6.1
+ New England Patriots,NE,DST,8,LAC,--,--,3800,6.1
+ Jacksonville Jaguars,JAX,DST,8,SEA,--,--,3500,6.1
+ Houston Texans,HOU,DST,18,TEN,--,--,3300,6.1
+ San Francisco 49ers,SF,DST,18,LAR,--,--,3800,6.1
+ Seattle Seahawks,SEA,DST,2,TEN,--,--,3700,6.1
+ Baltimore Ravens,BAL,DST,2,KC,--,--,3500,6.1
+ Washington Commanders,WAS,DST,14,DAL,--,--,3600,6.1
+ Seattle Seahawks,SEA,DST,5,LAR,--,--,3200,6
+ New York Jets,NYJ,DST,5,ATL,--,--,3600,6
+ Los Angeles Chargers,LAC,DST,5,CLE,--,--,3700,6
+ Kansas City Chiefs,KC,DST,5,BUF,--,--,3300,6
+ Chicago Bears,CHI,DST,13,ARI,--,--,3600,6
+ New Orleans Saints,NO,DST,1,GB,--,--,3700,6
+ New York Giants,NYG,DST,15,DAL,--,--,3400,6
+ Washington Commanders,WAS,DST,15,PHI,--,--,3900,6
+ Tennessee Titans,TEN,DST,12,NE,--,--,3900,6
+ Pittsburgh Steelers,PIT,DST,16,KC,--,--,3200,6
+ Kansas City Chiefs,KC,DST,10,LV,--,--,3600,6
+ Cincinnati Bengals,CIN,DST,7,BAL,--,--,3500,6
+ Kansas City Chiefs,KC,DST,7,TEN,--,--,3400,6
+ Minnesota Vikings,MIN,DST,4,CLE,--,--,3500,6
+ Tennessee Titans,TEN,DST,8,IND,--,--,3900,6
+ New Orleans Saints,NO,DST,8,TB,--,--,3600,6
+ Philadelphia Eagles,PHI,DST,18,DAL,--,--,3700,6
+ Seattle Seahawks,SEA,DST,18,ARI,--,--,3800,6
+ New Orleans Saints,NO,DST,13,DAL,--,--,3800,5.9
+ Denver Broncos,DEN,DST,13,KC,--,--,4100,5.9
+ Jacksonville Jaguars,JAX,DST,11,SF,--,--,3400,5.9
+ New York Jets,NYJ,DST,15,MIA,--,--,3200,5.9
+ Los Angeles Chargers,LAC,DST,6,BAL,--,--,3600,5.9
+ Chicago Bears,CHI,DST,16,SEA,--,--,3700,5.9
+ Los Angeles Chargers,LAC,DST,10,MIN,--,--,3300,5.9
+ Philadelphia Eagles,PHI,DST,7,LV,--,--,3500,5.9
+ Jacksonville Jaguars,JAX,DST,4,CIN,--,--,3400,5.9
+ New York Jets,NYJ,DST,4,TEN,--,--,3000,5.9
+ New England Patriots,NE,DST,4,TB,--,--,3700,5.9
+ Las Vegas Raiders,LV,DST,18,LAC,--,--,3500,5.9
+ Jacksonville Jaguars,JAX,DST,2,DEN,--,--,3300,5.9
+ New York Jets,NYJ,DST,14,NO,--,--,3000,5.9
+ Houston Texans,HOU,DST,5,NE,--,--,3200,5.8
+ Seattle Seahawks,SEA,DST,13,SF,--,--,3700,5.8
+ Minnesota Vikings,MIN,DST,11,GB,--,--,3400,5.8
+ Chicago Bears,CHI,DST,15,MIN,--,--,3400,5.8
+ New York Giants,NYG,DST,12,PHI,--,--,3400,5.8
+ San Francisco 49ers,SF,DST,12,MIN,--,--,4000,5.8
+ New England Patriots,NE,DST,6,DAL,--,--,3800,5.8
+ Detroit Lions,DET,DST,16,ATL,--,--,3400,5.8
+ New York Jets,NYJ,DST,8,CIN,--,--,3000,5.8
+ Detroit Lions,DET,DST,18,GB,--,--,3200,5.8
+ Philadelphia Eagles,PHI,DST,9,LAC,--,--,4000,5.8
+ Jacksonville Jaguars,JAX,DST,14,TEN,--,--,3200,5.8
+ New York Giants,NYG,DST,14,LAC,--,--,3800,5.8
+ Atlanta Falcons,ATL,DST,11,NE,--,--,3100,5.7
+ Dallas Cowboys,DAL,DST,11,KC,--,--,3700,5.7
+ Kansas City Chiefs,KC,DST,11,DAL,--,--,3300,5.7
+ Atlanta Falcons,ATL,DST,15,SF,--,--,3500,5.7
+ Seattle Seahawks,SEA,DST,15,LAR,--,--,3300,5.7
+ Seattle Seahawks,SEA,DST,6,PIT,--,--,3500,5.7
+ Washington Commanders,WAS,DST,17,PHI,--,--,3800,5.7
+ Cincinnati Bengals,CIN,DST,3,PIT,--,--,3400,5.7
+ Denver Broncos,DEN,DST,18,KC,--,--,3300,5.7
+ Minnesota Vikings,MIN,DST,9,BAL,--,--,3700,5.7
+ Chicago Bears,CHI,DST,9,PIT,--,--,3800,5.7
+ Las Vegas Raiders,LV,DST,2,PIT,--,--,3400,5.7
+ Detroit Lions,DET,DST,14,DEN,--,--,3300,5.7
+ Jacksonville Jaguars,JAX,DST,5,TEN,--,--,3300,5.6
+ Houston Texans,HOU,DST,13,IND,--,--,3300,5.6
+ Chicago Bears,CHI,DST,6,GB,--,--,3500,5.6
+ Cincinnati Bengals,CIN,DST,17,KC,--,--,3400,5.6
+ Carolina Panthers,CAR,DST,16,TB,--,--,3300,5.6
+ San Francisco 49ers,SF,DST,10,LAR,--,--,3800,5.6
+ Pittsburgh Steelers,PIT,DST,4,GB,--,--,3900,5.6
+ Baltimore Ravens,BAL,DST,17,LAR,--,--,3500,5.5
+ New York Giants,NYG,DST,16,PHI,--,--,3500,5.5
+ Detroit Lions,DET,DST,10,PIT,--,--,3100,5.5
+ Atlanta Falcons,ATL,DST,18,NO,--,--,3300,5.5
+ Carolina Panthers,CAR,DST,18,TB,--,--,3400,5.5
+ Atlanta Falcons,ATL,DST,9,NO,--,--,3200,5.5
+ Cincinnati Bengals,CIN,DST,5,GB,--,--,3400,5.4
+ New York Jets,NYJ,DST,13,PHI,--,--,3500,5.4
+ Dallas Cowboys,DAL,DST,1,TB,--,--,3400,5.4
+ Baltimore Ravens,BAL,DST,15,GB,--,--,3800,5.4
+ Minnesota Vikings,MIN,DST,17,GB,--,--,3400,5.4
+ Arizona Cardinals,ARI,DST,4,LAR,--,--,4100,5.4
+ Cleveland Browns,CLE,DST,16,GB,--,--,3300,5.3
+ Green Bay Packers,GB,DST,8,ARI,--,--,3400,5.3
+ Tennessee Titans,TEN,DST,2,SEA,--,--,3200,5.3
+ Buffalo Bills,BUF,DST,5,KC,--,--,3500,5.2
+ Indianapolis Colts,IND,DST,11,BUF,--,--,3200,5.2
+ Seattle Seahawks,SEA,DST,10,GB,--,--,4200,5.2
+ Detroit Lions,DET,DST,13,MIN,--,--,3100,5.1
+ Las Vegas Raiders,LV,DST,12,DAL,--,--,3500,5
+ Detroit Lions,DET,DST,17,SEA,--,--,3500,5
+ Chicago Bears,CHI,DST,14,GB,--,--,3300,5
+ Washington Commanders,WAS,DST,6,KC,--,--,3000,4.9
+ Las Vegas Raiders,LV,DST,17,IND,--,--,3400,4.9
+ Las Vegas Raiders,LV,DST,14,KC,--,--,3100,4.9
+ Washington Commanders,WAS,DST,16,DAL,--,--,3400,4.8
+ Washington Commanders,WAS,DST,10,TB,--,--,3400,4.8
+ New York Giants,NYG,DST,8,KC,--,--,3200,4.8
+ Denver Broncos,DEN,DST,9,DAL,--,--,3400,4.8
+ Houston Texans,HOU,DST,11,TEN,--,--,3000,4.7
+ New Orleans Saints,NO,DST,15,TB,--,--,3500,4.7
+ Houston Texans,HOU,DST,6,IND,--,--,3400,4.7
+ Houston Texans,HOU,DST,17,SF,--,--,3300,4.7
+ Jacksonville Jaguars,JAX,DST,3,ARI,--,--,3100,4.7
+ Philadelphia Eagles,PHI,DST,6,TB,--,--,3300,4.6
+ Tennessee Titans,TEN,DST,7,KC,--,--,3200,4.6
+ Chicago Bears,CHI,DST,7,TB,--,--,3700,4.6
+ New York Giants,NYG,DST,5,DAL,--,--,3000,4.5
+ Detroit Lions,DET,DST,15,ARI,--,--,3000,4.5
+ Atlanta Falcons,ATL,DST,10,DAL,--,--,3200,4.5
+ Washington Commanders,WAS,DST,7,GB,--,--,3800,4.5
+ Detroit Lions,DET,DST,3,BAL,--,--,3000,4.5
+ New York Jets,NYJ,DST,9,IND,--,--,3100,4.5
+ Detroit Lions,DET,DST,11,CLE,--,--,3500,4.4
+ New York Giants,NYG,DST,11,TB,--,--,3400,4.4
+ Tennessee Titans,TEN,DST,6,BUF,--,--,3200,4.4
+ Jacksonville Jaguars,JAX,DST,10,IND,--,--,3500,4.4
+ Philadelphia Eagles,PHI,DST,4,KC,--,--,3200,4.4
+ Miami Dolphins,MIA,DST,8,BUF,--,--,3100,4.4
+ Detroit Lions,DET,DST,5,MIN,--,--,3100,4.3
+ Miami Dolphins,MIA,DST,5,TB,--,--,3600,4.3
+ Jacksonville Jaguars,JAX,DST,17,NE,--,--,3200,4.3
+ Tennessee Titans,TEN,DST,9,LAR,--,--,3400,4.3
+ Atlanta Falcons,ATL,DST,2,TB,--,--,3000,4.3
+ Atlanta Falcons,ATL,DST,13,TB,--,--,3200,4.2
+ Cleveland Browns,CLE,DST,1,KC,--,--,3100,4.2
+ New York Giants,NYG,DST,6,LAR,--,--,3200,4.2
+ Atlanta Falcons,ATL,DST,17,BUF,--,--,3000,4.2
+ Houston Texans,HOU,DST,16,LAC,--,--,3000,4.2
+ New York Jets,NYJ,DST,18,BUF,--,--,3100,4.2
+ Houston Texans,HOU,DST,2,CLE,--,--,3100,4.2
+ New York Jets,NYJ,DST,17,TB,--,--,3100,4.1
+ New York Jets,NYJ,DST,10,BUF,--,--,3000,4.1
+ Houston Texans,HOU,DST,7,ARI,--,--,3000,4.1
+ Jacksonville Jaguars,JAX,DST,13,LAR,--,--,3000,4
+ Los Angeles Chargers,LAC,DST,3,KC,--,--,3300,4
+ Jacksonville Jaguars,JAX,DST,18,IND,--,--,3000,4
+ Houston Texans,HOU,DST,4,BUF,--,--,3100,3.8
+ Houston Texans,HOU,DST,8,LAR,--,--,3300,3.8
+ Detroit Lions,DET,DST,7,LAR,--,--,3100,3.7
+ Jacksonville Jaguars,JAX,DST,9,BUF,--,--,3000,3.7
+ Detroit Lions,DET,DST,2,GB,--,--,3000,3.6
